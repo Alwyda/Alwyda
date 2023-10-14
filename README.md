@@ -1,3 +1,8 @@
+<div id="badges">
+  <a href="https://www.linkedin.com/in/alvyda-stepavi%C4%8Di%C5%ABt%C4%97-7479a976/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 Here are some ideas to get you started:
 
@@ -6,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: [(https://img.shields.io/badge/LinkedIn-blue)https://img.shields.io/badge/LinkedIn-blue](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+- 📫 How to reach me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
