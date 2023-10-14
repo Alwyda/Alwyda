@@ -1,6 +1,6 @@
-I am welcoming new opportunities to spread knowledge and insights in a sharply precise, deeply grounded, aesthetically pleasing and truly impactful way.
+Welcoming new opportunities to spread knowledge and insights in a sharply precise, deeply grounded, aesthetically pleasing and truly impactful way
 
-I am:
+<b>I am:</b>
 - Turing College graduate in data analytics
 - experienced translator working for "National Geographic" and the European Commission
 
