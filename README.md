@@ -1,13 +1,15 @@
 Welcoming new opportunities to spread knowledge and insights in a sharply precise, deeply grounded, aesthetically pleasing and truly impactful way
 
-##I am:
+<b>I am:</b>
 - Turing College graduate in data analytics
 - experienced translator working for "National Geographic" and the European Commission
 - passionate about discovering how things work
 
 <b>Tools and Languages:</b>
 <div>
-
+  <img src="https://github.com/redbooth/free-file-icons/blob/master/512px/sql.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+  
 </div>
   
 <div id="badges">
