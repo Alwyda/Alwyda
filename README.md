@@ -12,11 +12,13 @@ Welcoming new opportunities to spread knowledge and insights in a sharply precis
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="30" height="30"/>&nbsp;
   <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" title="Excel"  alt="Excel" width="30" height="30"/>&nbsp;
   <img src="https://github.com/sempostma/office365-icons/blob/master/svg/powerpoint.svg"  alt="PowerPoint" width="30" height="30"/>&nbsp;
+  <img src="https://en.wikipedia.org/wiki/File:Google_Sheets_logo_%282014-2020%29.svg"  alt="PowerPoint" width="30" height="30"/>&nbsp;
+  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/looker-icon.png"  alt="PowerPoint" width="30" height="30"/>&nbsp;
   
  
 </div>
 
-
+<n/>
 <b>Contact:</b>  
 <div id="badges">
   <a href="https://www.linkedin.com/in/alvyda-stepavi%C4%8Di%C5%ABt%C4%97-7479a976/">
