@@ -15,7 +15,7 @@ Welcoming new opportunities to spread knowledge and insights in a sharply precis
   <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/looker-icon.png" title="Looker" alt="Looker" width="30" height="30"/>&nbsp;
 </div>  
 
-<br><b>Contact:</b>  
+<br><b>Contact:</b>
 <div id="badges">
   <a href="https://www.linkedin.com/in/alvyda-stepavi%C4%8Di%C5%ABt%C4%97-7479a976/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
